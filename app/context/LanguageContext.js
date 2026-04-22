@@ -23,6 +23,18 @@ const translations = {
       stat3: "Interventions réalisées",
       stat4: "Disponibilité",
     },
+    services: {
+      tag: 'Nos services',
+      title: 'Des solutions pour chaque besoin',
+      description: 'De la salle de bain à l\'urgence commerciale, notre équipe intervient partout à Montréal.',
+      cta: 'Demander un devis',
+      items: [
+        { title: 'Plomberie salle de bain', desc: 'Robinets, douches, baignoires, toilettes et tuyauterie — installation et réparation.', img: '/plumbing3.jpg' },
+        { title: 'Plomberie commerciale', desc: 'Solutions complètes pour bureaux, restaurants et immeubles commerciaux.', img: '/plumbing4.jpg' },
+        { title: 'Installation', desc: 'Chauffe-eau, appareils sanitaires et nouvelles installations résidentielles.', img: '/plumbing1.jpg' },
+        { title: 'Urgence & Dépannage', desc: 'Intervention rapide 24h/7j pour fuites, bouchons et pannes urgentes.', img: '/plumbing2.jpg' },
+      ],
+    },
     testimonials: {
       tag: 'Témoignages',
       title: 'Ce que disent nos clients',
@@ -95,6 +107,18 @@ const translations = {
       stat2: "Years Experience",
       stat3: "Jobs Completed",
       stat4: "Availability",
+    },
+    services: {
+      tag: 'Our Services',
+      title: 'A solution for every need',
+      description: 'From bathroom repairs to commercial emergencies, our team serves all of Montreal.',
+      cta: 'Get a Quote',
+      items: [
+        { title: 'Bathroom Plumbing', desc: 'Faucets, showers, bathtubs, toilets and piping — installation and repair.', img: '/plumbing3.jpg' },
+        { title: 'Commercial Plumbing', desc: 'Complete plumbing solutions for offices, restaurants and commercial buildings.', img: '/plumbing4.jpg' },
+        { title: 'Installation', desc: 'Water heaters, fixtures and new residential plumbing installations.', img: '/plumbing1.jpg' },
+        { title: 'Emergency & Repairs', desc: '24/7 rapid response for leaks, clogs and urgent plumbing failures.', img: '/plumbing2.jpg' },
+      ],
     },
     testimonials: {
       tag: 'Testimonials',

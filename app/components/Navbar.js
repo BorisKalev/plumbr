@@ -16,7 +16,7 @@ export default function Navbar() {
   }, []);
 
   const links = [
-    { label: t.nav.services, href: "#testimonials" },
+    { label: t.nav.services, href: "#services" },
     { label: t.nav.about, href: "#faq" },
     { label: t.nav.contact, href: "#contact" },
   ];
