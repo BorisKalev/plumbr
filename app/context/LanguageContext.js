@@ -74,6 +74,20 @@ const translations = {
         'Plombiers certifiés RBQ',
       ],
     },
+    cookies: {
+      title: 'Nous respectons votre vie privée',
+      description: 'Nous utilisons des cookies pour améliorer votre expérience, analyser notre trafic et personnaliser nos contenus. Vous pouvez gérer vos préférences à tout moment.',
+      acceptAll: 'Tout accepter',
+      rejectAll: 'Tout refuser',
+      customize: 'Personnaliser',
+      savePrefs: 'Enregistrer mes préférences',
+      poweredBy: 'Gestion des cookies — plumbr',
+      categories: {
+        necessary: { label: 'Cookies nécessaires', desc: 'Indispensables au fonctionnement du site. Ne peuvent pas être désactivés.' },
+        analytics:  { label: 'Cookies analytiques', desc: 'Nous aident à comprendre comment les visiteurs utilisent le site (pages vues, durée, etc.).' },
+        marketing:  { label: 'Cookies marketing', desc: 'Utilisés pour afficher des publicités pertinentes et mesurer leur efficacité.' },
+      },
+    },
     footer: {
       tagline:
         "Des solutions plomberie de confiance, disponibles quand vous en avez besoin.",
@@ -158,6 +172,20 @@ const translations = {
         'Fast response guaranteed',
         'RBQ-certified plumbers',
       ],
+    },
+    cookies: {
+      title: 'We respect your privacy',
+      description: 'We use cookies to enhance your experience, analyze traffic, and personalize content. You can manage your preferences at any time.',
+      acceptAll: 'Accept All',
+      rejectAll: 'Reject All',
+      customize: 'Customize',
+      savePrefs: 'Save Preferences',
+      poweredBy: 'Cookie Management — plumbr',
+      categories: {
+        necessary: { label: 'Necessary Cookies', desc: 'Essential for the website to function. Cannot be disabled.' },
+        analytics:  { label: 'Analytics Cookies', desc: 'Help us understand how visitors interact with the site (pages viewed, duration, etc.).' },
+        marketing:  { label: 'Marketing Cookies', desc: 'Used to show relevant ads and measure their effectiveness.' },
+      },
     },
     footer: {
       tagline: "Trusted plumbing solutions, available whenever you need us.",
